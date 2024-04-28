@@ -1,0 +1,14 @@
+C:\Users\aligo\source\repos\Timer Example\bin\Debug\netcoreapp3.1\Timer Example.exe
+C:\Users\aligo\source\repos\Timer Example\bin\Debug\netcoreapp3.1\Timer Example.deps.json
+C:\Users\aligo\source\repos\Timer Example\bin\Debug\netcoreapp3.1\Timer Example.runtimeconfig.json
+C:\Users\aligo\source\repos\Timer Example\bin\Debug\netcoreapp3.1\Timer Example.runtimeconfig.dev.json
+C:\Users\aligo\source\repos\Timer Example\bin\Debug\netcoreapp3.1\Timer Example.dll
+C:\Users\aligo\source\repos\Timer Example\bin\Debug\netcoreapp3.1\Timer Example.pdb
+C:\Users\aligo\source\repos\Timer Example\obj\Debug\netcoreapp3.1\Timer Example.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\Timer Example\obj\Debug\netcoreapp3.1\Timer Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\source\repos\Timer Example\obj\Debug\netcoreapp3.1\Timer Example.AssemblyInfoInputs.cache
+C:\Users\aligo\source\repos\Timer Example\obj\Debug\netcoreapp3.1\Timer Example.AssemblyInfo.cs
+C:\Users\aligo\source\repos\Timer Example\obj\Debug\netcoreapp3.1\Timer Example.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\Timer Example\obj\Debug\netcoreapp3.1\Timer Example.dll
+C:\Users\aligo\source\repos\Timer Example\obj\Debug\netcoreapp3.1\Timer Example.pdb
+C:\Users\aligo\source\repos\Timer Example\obj\Debug\netcoreapp3.1\Timer Example.genruntimeconfig.cache

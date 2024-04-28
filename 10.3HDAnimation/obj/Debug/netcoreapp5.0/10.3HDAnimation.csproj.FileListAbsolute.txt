@@ -1,0 +1,16 @@
+C:\Users\aligo\source\repos\10.3HDAnimation\bin\Debug\netcoreapp5.0\10.3HDAnimation.exe
+C:\Users\aligo\source\repos\10.3HDAnimation\bin\Debug\netcoreapp5.0\10.3HDAnimation.deps.json
+C:\Users\aligo\source\repos\10.3HDAnimation\bin\Debug\netcoreapp5.0\10.3HDAnimation.runtimeconfig.json
+C:\Users\aligo\source\repos\10.3HDAnimation\bin\Debug\netcoreapp5.0\10.3HDAnimation.runtimeconfig.dev.json
+C:\Users\aligo\source\repos\10.3HDAnimation\bin\Debug\netcoreapp5.0\10.3HDAnimation.dll
+C:\Users\aligo\source\repos\10.3HDAnimation\bin\Debug\netcoreapp5.0\ref\10.3HDAnimation.dll
+C:\Users\aligo\source\repos\10.3HDAnimation\bin\Debug\netcoreapp5.0\10.3HDAnimation.pdb
+C:\Users\aligo\source\repos\10.3HDAnimation\obj\Debug\netcoreapp5.0\10.3HDAnimation.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\10.3HDAnimation\obj\Debug\netcoreapp5.0\10.3HDAnimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\source\repos\10.3HDAnimation\obj\Debug\netcoreapp5.0\10.3HDAnimation.AssemblyInfoInputs.cache
+C:\Users\aligo\source\repos\10.3HDAnimation\obj\Debug\netcoreapp5.0\10.3HDAnimation.AssemblyInfo.cs
+C:\Users\aligo\source\repos\10.3HDAnimation\obj\Debug\netcoreapp5.0\10.3HDAnimation.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\10.3HDAnimation\obj\Debug\netcoreapp5.0\10.3HDAnimation.dll
+C:\Users\aligo\source\repos\10.3HDAnimation\obj\Debug\netcoreapp5.0\ref\10.3HDAnimation.dll
+C:\Users\aligo\source\repos\10.3HDAnimation\obj\Debug\netcoreapp5.0\10.3HDAnimation.pdb
+C:\Users\aligo\source\repos\10.3HDAnimation\obj\Debug\netcoreapp5.0\10.3HDAnimation.genruntimeconfig.cache

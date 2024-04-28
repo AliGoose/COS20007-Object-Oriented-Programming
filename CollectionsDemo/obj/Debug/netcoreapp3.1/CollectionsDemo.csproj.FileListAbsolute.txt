@@ -1,0 +1,13 @@
+C:\Users\aligo\source\repos\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.exe
+C:\Users\aligo\source\repos\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.deps.json
+C:\Users\aligo\source\repos\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.runtimeconfig.json
+C:\Users\aligo\source\repos\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.runtimeconfig.dev.json
+C:\Users\aligo\source\repos\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.dll
+C:\Users\aligo\source\repos\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.pdb
+C:\Users\aligo\source\repos\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.AssemblyInfoInputs.cache
+C:\Users\aligo\source\repos\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.AssemblyInfo.cs
+C:\Users\aligo\source\repos\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.dll
+C:\Users\aligo\source\repos\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.pdb
+C:\Users\aligo\source\repos\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.genruntimeconfig.cache

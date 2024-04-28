@@ -1,0 +1,10 @@
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\bin\Debug\Hello World GUI.exe.config
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\bin\Debug\Hello World GUI.exe
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\bin\Debug\Hello World GUI.pdb
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\obj\Debug\Hello World GUI.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\obj\Debug\Hello_World_GUI.Form1.resources
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\obj\Debug\Hello_World_GUI.Properties.Resources.resources
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\obj\Debug\Hello World GUI.csproj.GenerateResource.cache
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\obj\Debug\Hello World GUI.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\obj\Debug\Hello World GUI.exe
+C:\Users\aligo\source\repos\COS20007\Hello World GUI\obj\Debug\Hello World GUI.pdb

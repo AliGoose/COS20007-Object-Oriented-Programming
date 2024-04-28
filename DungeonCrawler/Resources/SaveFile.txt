@@ -1,0 +1,24 @@
+3
+Warrior
+Jayden
+20
+1
+2
+Sorcerer
+Lachie
+10
+5
+3
+Bard
+Jarrad
+5
+7
+1
+3
+Health Potion
+3
+Mana Potion
+3
+Power Stone
+1
+8

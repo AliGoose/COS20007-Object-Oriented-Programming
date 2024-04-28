@@ -1,0 +1,14 @@
+C:\Users\aligo\source\repos\CounterTest\bin\Debug\netcoreapp3.1\CounterTest.exe
+C:\Users\aligo\source\repos\CounterTest\bin\Debug\netcoreapp3.1\CounterTest.deps.json
+C:\Users\aligo\source\repos\CounterTest\bin\Debug\netcoreapp3.1\CounterTest.runtimeconfig.json
+C:\Users\aligo\source\repos\CounterTest\bin\Debug\netcoreapp3.1\CounterTest.runtimeconfig.dev.json
+C:\Users\aligo\source\repos\CounterTest\bin\Debug\netcoreapp3.1\CounterTest.dll
+C:\Users\aligo\source\repos\CounterTest\bin\Debug\netcoreapp3.1\CounterTest.pdb
+C:\Users\aligo\source\repos\CounterTest\obj\Debug\netcoreapp3.1\CounterTest.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\CounterTest\obj\Debug\netcoreapp3.1\CounterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\source\repos\CounterTest\obj\Debug\netcoreapp3.1\CounterTest.AssemblyInfoInputs.cache
+C:\Users\aligo\source\repos\CounterTest\obj\Debug\netcoreapp3.1\CounterTest.AssemblyInfo.cs
+C:\Users\aligo\source\repos\CounterTest\obj\Debug\netcoreapp3.1\CounterTest.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\CounterTest\obj\Debug\netcoreapp3.1\CounterTest.dll
+C:\Users\aligo\source\repos\CounterTest\obj\Debug\netcoreapp3.1\CounterTest.pdb
+C:\Users\aligo\source\repos\CounterTest\obj\Debug\netcoreapp3.1\CounterTest.genruntimeconfig.cache

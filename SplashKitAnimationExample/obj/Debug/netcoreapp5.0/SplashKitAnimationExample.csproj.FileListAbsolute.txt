@@ -1,0 +1,16 @@
+C:\Users\aligo\source\repos\SplashKitAnimationExample\bin\Debug\netcoreapp5.0\SplashKitAnimationExample.exe
+C:\Users\aligo\source\repos\SplashKitAnimationExample\bin\Debug\netcoreapp5.0\SplashKitAnimationExample.deps.json
+C:\Users\aligo\source\repos\SplashKitAnimationExample\bin\Debug\netcoreapp5.0\SplashKitAnimationExample.runtimeconfig.json
+C:\Users\aligo\source\repos\SplashKitAnimationExample\bin\Debug\netcoreapp5.0\SplashKitAnimationExample.runtimeconfig.dev.json
+C:\Users\aligo\source\repos\SplashKitAnimationExample\bin\Debug\netcoreapp5.0\SplashKitAnimationExample.dll
+C:\Users\aligo\source\repos\SplashKitAnimationExample\bin\Debug\netcoreapp5.0\ref\SplashKitAnimationExample.dll
+C:\Users\aligo\source\repos\SplashKitAnimationExample\bin\Debug\netcoreapp5.0\SplashKitAnimationExample.pdb
+C:\Users\aligo\source\repos\SplashKitAnimationExample\obj\Debug\netcoreapp5.0\SplashKitAnimationExample.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\SplashKitAnimationExample\obj\Debug\netcoreapp5.0\SplashKitAnimationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\source\repos\SplashKitAnimationExample\obj\Debug\netcoreapp5.0\SplashKitAnimationExample.AssemblyInfoInputs.cache
+C:\Users\aligo\source\repos\SplashKitAnimationExample\obj\Debug\netcoreapp5.0\SplashKitAnimationExample.AssemblyInfo.cs
+C:\Users\aligo\source\repos\SplashKitAnimationExample\obj\Debug\netcoreapp5.0\SplashKitAnimationExample.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\SplashKitAnimationExample\obj\Debug\netcoreapp5.0\SplashKitAnimationExample.dll
+C:\Users\aligo\source\repos\SplashKitAnimationExample\obj\Debug\netcoreapp5.0\ref\SplashKitAnimationExample.dll
+C:\Users\aligo\source\repos\SplashKitAnimationExample\obj\Debug\netcoreapp5.0\SplashKitAnimationExample.pdb
+C:\Users\aligo\source\repos\SplashKitAnimationExample\obj\Debug\netcoreapp5.0\SplashKitAnimationExample.genruntimeconfig.cache

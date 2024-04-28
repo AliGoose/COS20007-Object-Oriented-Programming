@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DungeonCrawler", "DungeonCrawler.csproj", "{B0AA944B-2F62-4E05-979C-0F89DE05717B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DungeonCrawlerTests", "..\DungeonCrawlerTests\DungeonCrawlerTests.csproj", "{37095684-B363-4959-A956-9685EDA3FA46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0AA944B-2F62-4E05-979C-0F89DE05717B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AA944B-2F62-4E05-979C-0F89DE05717B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AA944B-2F62-4E05-979C-0F89DE05717B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AA944B-2F62-4E05-979C-0F89DE05717B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37095684-B363-4959-A956-9685EDA3FA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37095684-B363-4959-A956-9685EDA3FA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37095684-B363-4959-A956-9685EDA3FA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37095684-B363-4959-A956-9685EDA3FA46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {649F8536-00B0-4437-AFA9-AA4EB6C5C841}
+	EndGlobalSection
+EndGlobal

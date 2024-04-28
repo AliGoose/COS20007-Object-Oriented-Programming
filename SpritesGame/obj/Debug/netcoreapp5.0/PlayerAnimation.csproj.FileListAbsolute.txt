@@ -1,0 +1,16 @@
+C:\Users\aligo\source\repos\PlayerAnimation\bin\Debug\netcoreapp5.0\PlayerAnimation.exe
+C:\Users\aligo\source\repos\PlayerAnimation\bin\Debug\netcoreapp5.0\PlayerAnimation.deps.json
+C:\Users\aligo\source\repos\PlayerAnimation\bin\Debug\netcoreapp5.0\PlayerAnimation.runtimeconfig.json
+C:\Users\aligo\source\repos\PlayerAnimation\bin\Debug\netcoreapp5.0\PlayerAnimation.runtimeconfig.dev.json
+C:\Users\aligo\source\repos\PlayerAnimation\bin\Debug\netcoreapp5.0\PlayerAnimation.dll
+C:\Users\aligo\source\repos\PlayerAnimation\bin\Debug\netcoreapp5.0\ref\PlayerAnimation.dll
+C:\Users\aligo\source\repos\PlayerAnimation\bin\Debug\netcoreapp5.0\PlayerAnimation.pdb
+C:\Users\aligo\source\repos\PlayerAnimation\obj\Debug\netcoreapp5.0\PlayerAnimation.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\PlayerAnimation\obj\Debug\netcoreapp5.0\PlayerAnimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\source\repos\PlayerAnimation\obj\Debug\netcoreapp5.0\PlayerAnimation.AssemblyInfoInputs.cache
+C:\Users\aligo\source\repos\PlayerAnimation\obj\Debug\netcoreapp5.0\PlayerAnimation.AssemblyInfo.cs
+C:\Users\aligo\source\repos\PlayerAnimation\obj\Debug\netcoreapp5.0\PlayerAnimation.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\PlayerAnimation\obj\Debug\netcoreapp5.0\PlayerAnimation.dll
+C:\Users\aligo\source\repos\PlayerAnimation\obj\Debug\netcoreapp5.0\ref\PlayerAnimation.dll
+C:\Users\aligo\source\repos\PlayerAnimation\obj\Debug\netcoreapp5.0\PlayerAnimation.pdb
+C:\Users\aligo\source\repos\PlayerAnimation\obj\Debug\netcoreapp5.0\PlayerAnimation.genruntimeconfig.cache

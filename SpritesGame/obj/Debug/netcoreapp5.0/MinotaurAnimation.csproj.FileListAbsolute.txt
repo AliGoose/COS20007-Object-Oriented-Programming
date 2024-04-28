@@ -1,0 +1,16 @@
+C:\Users\aligo\source\repos\MinotaurAnimation\bin\Debug\netcoreapp5.0\MinotaurAnimation.exe
+C:\Users\aligo\source\repos\MinotaurAnimation\bin\Debug\netcoreapp5.0\MinotaurAnimation.deps.json
+C:\Users\aligo\source\repos\MinotaurAnimation\bin\Debug\netcoreapp5.0\MinotaurAnimation.runtimeconfig.json
+C:\Users\aligo\source\repos\MinotaurAnimation\bin\Debug\netcoreapp5.0\MinotaurAnimation.runtimeconfig.dev.json
+C:\Users\aligo\source\repos\MinotaurAnimation\bin\Debug\netcoreapp5.0\MinotaurAnimation.dll
+C:\Users\aligo\source\repos\MinotaurAnimation\bin\Debug\netcoreapp5.0\ref\MinotaurAnimation.dll
+C:\Users\aligo\source\repos\MinotaurAnimation\bin\Debug\netcoreapp5.0\MinotaurAnimation.pdb
+C:\Users\aligo\source\repos\MinotaurAnimation\obj\Debug\netcoreapp5.0\MinotaurAnimation.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\MinotaurAnimation\obj\Debug\netcoreapp5.0\MinotaurAnimation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\source\repos\MinotaurAnimation\obj\Debug\netcoreapp5.0\MinotaurAnimation.AssemblyInfoInputs.cache
+C:\Users\aligo\source\repos\MinotaurAnimation\obj\Debug\netcoreapp5.0\MinotaurAnimation.AssemblyInfo.cs
+C:\Users\aligo\source\repos\MinotaurAnimation\obj\Debug\netcoreapp5.0\MinotaurAnimation.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\MinotaurAnimation\obj\Debug\netcoreapp5.0\MinotaurAnimation.dll
+C:\Users\aligo\source\repos\MinotaurAnimation\obj\Debug\netcoreapp5.0\ref\MinotaurAnimation.dll
+C:\Users\aligo\source\repos\MinotaurAnimation\obj\Debug\netcoreapp5.0\MinotaurAnimation.pdb
+C:\Users\aligo\source\repos\MinotaurAnimation\obj\Debug\netcoreapp5.0\MinotaurAnimation.genruntimeconfig.cache

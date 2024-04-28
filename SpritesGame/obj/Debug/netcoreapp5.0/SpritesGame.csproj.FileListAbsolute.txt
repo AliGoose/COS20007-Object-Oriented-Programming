@@ -1,0 +1,16 @@
+C:\Users\aligo\source\repos\SpritesGame\bin\Debug\netcoreapp5.0\SpritesGame.exe
+C:\Users\aligo\source\repos\SpritesGame\bin\Debug\netcoreapp5.0\SpritesGame.deps.json
+C:\Users\aligo\source\repos\SpritesGame\bin\Debug\netcoreapp5.0\SpritesGame.runtimeconfig.json
+C:\Users\aligo\source\repos\SpritesGame\bin\Debug\netcoreapp5.0\SpritesGame.runtimeconfig.dev.json
+C:\Users\aligo\source\repos\SpritesGame\bin\Debug\netcoreapp5.0\SpritesGame.dll
+C:\Users\aligo\source\repos\SpritesGame\bin\Debug\netcoreapp5.0\ref\SpritesGame.dll
+C:\Users\aligo\source\repos\SpritesGame\bin\Debug\netcoreapp5.0\SpritesGame.pdb
+C:\Users\aligo\source\repos\SpritesGame\obj\Debug\netcoreapp5.0\SpritesGame.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\SpritesGame\obj\Debug\netcoreapp5.0\SpritesGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\source\repos\SpritesGame\obj\Debug\netcoreapp5.0\SpritesGame.AssemblyInfoInputs.cache
+C:\Users\aligo\source\repos\SpritesGame\obj\Debug\netcoreapp5.0\SpritesGame.AssemblyInfo.cs
+C:\Users\aligo\source\repos\SpritesGame\obj\Debug\netcoreapp5.0\SpritesGame.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\SpritesGame\obj\Debug\netcoreapp5.0\SpritesGame.dll
+C:\Users\aligo\source\repos\SpritesGame\obj\Debug\netcoreapp5.0\ref\SpritesGame.dll
+C:\Users\aligo\source\repos\SpritesGame\obj\Debug\netcoreapp5.0\SpritesGame.pdb
+C:\Users\aligo\source\repos\SpritesGame\obj\Debug\netcoreapp5.0\SpritesGame.genruntimeconfig.cache

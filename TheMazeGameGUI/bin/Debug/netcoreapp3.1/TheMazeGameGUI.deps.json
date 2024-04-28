@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TheMazeGameGUI/1.0.0": {
+        "dependencies": {
+          "TheMazeGameDLL": "1.0.0"
+        },
+        "runtime": {
+          "TheMazeGameGUI.dll": {}
+        }
+      },
+      "TheMazeGameDLL/1.0.0": {
+        "runtime": {
+          "TheMazeGameDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheMazeGameGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TheMazeGameDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\aligo\source\repos\DnDInitiativeTracker\bin\Debug\netcoreapp3.1\DnDInitiativeTracker.exe
+C:\Users\aligo\source\repos\DnDInitiativeTracker\bin\Debug\netcoreapp3.1\DnDInitiativeTracker.deps.json
+C:\Users\aligo\source\repos\DnDInitiativeTracker\bin\Debug\netcoreapp3.1\DnDInitiativeTracker.runtimeconfig.json
+C:\Users\aligo\source\repos\DnDInitiativeTracker\bin\Debug\netcoreapp3.1\DnDInitiativeTracker.runtimeconfig.dev.json
+C:\Users\aligo\source\repos\DnDInitiativeTracker\bin\Debug\netcoreapp3.1\DnDInitiativeTracker.dll
+C:\Users\aligo\source\repos\DnDInitiativeTracker\bin\Debug\netcoreapp3.1\DnDInitiativeTracker.pdb
+C:\Users\aligo\source\repos\DnDInitiativeTracker\obj\Debug\netcoreapp3.1\DnDInitiativeTracker.csproj.AssemblyReference.cache
+C:\Users\aligo\source\repos\DnDInitiativeTracker\obj\Debug\netcoreapp3.1\DnDInitiativeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aligo\source\repos\DnDInitiativeTracker\obj\Debug\netcoreapp3.1\DnDInitiativeTracker.AssemblyInfoInputs.cache
+C:\Users\aligo\source\repos\DnDInitiativeTracker\obj\Debug\netcoreapp3.1\DnDInitiativeTracker.AssemblyInfo.cs
+C:\Users\aligo\source\repos\DnDInitiativeTracker\obj\Debug\netcoreapp3.1\DnDInitiativeTracker.csproj.CoreCompileInputs.cache
+C:\Users\aligo\source\repos\DnDInitiativeTracker\obj\Debug\netcoreapp3.1\DnDInitiativeTracker.dll
+C:\Users\aligo\source\repos\DnDInitiativeTracker\obj\Debug\netcoreapp3.1\DnDInitiativeTracker.pdb
+C:\Users\aligo\source\repos\DnDInitiativeTracker\obj\Debug\netcoreapp3.1\DnDInitiativeTracker.genruntimeconfig.cache

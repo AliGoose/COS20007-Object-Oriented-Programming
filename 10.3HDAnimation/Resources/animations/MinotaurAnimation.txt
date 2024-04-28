@@ -1,0 +1,11 @@
+SplashKit Animation
+
+f:[11-18],[11-18],6,
+f:[33-41],[33-41],6,
+f:[121-128],[121-128],6,
+f:[143-151],[143-151],6,
+
+i:WalkRight,11
+i:AttackRight,33
+i:WalkLeft,121
+i:AttackLeft,143
